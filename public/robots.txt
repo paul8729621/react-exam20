@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /private/
+Allow: /public/
+
+Sitemap: https://oz-next-pokemon.vercel.app/sitemap.xml
